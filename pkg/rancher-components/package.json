@@ -34,7 +34,7 @@
     "@vue/test-utils": "2.4.6",
     "core-js": "3.48.0",
     "cron-validator": "1.4.0",
-    "cronstrue": "2.53.0",
+    "cronstrue": "3.24.0",
     "eslint": "10.8.1",
     "eslint-plugin-cypress": "4.3.0",
     "eslint-plugin-import": "2.32.0",

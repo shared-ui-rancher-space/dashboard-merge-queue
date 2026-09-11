@@ -98,7 +98,7 @@
     "color": "5.0.3",
     "cookie-universal": "2.2.2",
     "cron-validator": "1.4.0",
-    "cronstrue": "2.53.0",
+    "cronstrue": "3.24.0",
     "custom-event-polyfill": "1.0.7",
     "d3": "7.3.0",
     "dayjs": "1.11.18",
